@@ -1,0 +1,16 @@
+const authorized_tags = {
+  'domain:first-order logic': 'First order logic (Category: domain)',
+  'domain:logic ai': 'Logic ai (Category: domain)',
+  'domain:neuro-symbolic': 'Neuro symbolic (Category: domain)',
+  'topic:automation': 'Automation (Category: topic)',
+  'topic:game logic': 'Game logic (Category: topic)',
+  'topic:game semantics': 'Game semantics (Category: topic)',
+  'topic:logic automation': 'Logic automation (Category: topic)',
+  'topic:logic learning': 'Logic learning (Category: topic)',
+  'topic:model building': 'Model building (Category: topic)',
+  'topic:model construction': 'Model construction (Category: topic)',
+  'topic:model games': 'Model games (Category: topic)',
+  'topic:philosophy': 'Philosophy (Category: topic)',
+  'topic:semantic tableau': 'Semantic tableau (Category: topic)',
+  'type:survey': 'Survey (Category: type)',
+};
